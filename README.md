@@ -44,3 +44,4 @@ In the initial data preparation phase, we performed the following tasks:
 
 ## Dashboard
 
+![Screenshot (80)](https://github.com/user-attachments/assets/cb534f52-e522-4504-aee7-4df1ebe0b3cc)
