@@ -25,7 +25,7 @@
 
 - PowerPoint - Background Image
 
-- PowerBI- Creating Dashboards, Data Visualization
+- PowerBI - Creating Dashboards, Data Visualization
 
 ### Data Preparation
 
