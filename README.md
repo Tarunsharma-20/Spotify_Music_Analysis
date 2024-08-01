@@ -14,7 +14,7 @@
 
 ### Project Overview
 
-- Welcome to the Spotify Songs Analysis Dashboard!This project analyzes a comprehensive Spotify dataset to evaluate song popularity, identify genres, and explore correlations between instrumentalness, valence, and key.
+- Welcome to the Spotify Music Analysis Dashboard!This project analyzes a comprehensive Spotify dataset to evaluate song popularity, identify genres, and explore correlations between instrumentalness, valence, and key.
 
 - It aims to uncover trends and generate a detailed report for a Power BI dashboard.
 
