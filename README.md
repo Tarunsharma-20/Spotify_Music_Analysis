@@ -34,7 +34,7 @@ In the initial data preparation phase, we performed the following tasks:
 2. Handling missing values.
 3. Data cleaning and formatting.
 
-### Key Features:
+### Key Features
 
 - **Dynamic Calculations:** Utilizes DAX functions for dynamic calculations and aggregations of key metrics.
 - **In-depth Insights:** Offers detailed insights into music trends and user preferences.
